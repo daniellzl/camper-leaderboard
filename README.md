@@ -2,7 +2,7 @@
 
 Displays a list of top 100 FreeCodeCampers ordered by points earned in past 30 days or from all time.
 
-[Live Application](camper-leaderboard-dlzl.surge.sh)
+[Live Application](https://camper-leaderboard-dlzl.surge.sh)
 
 ### Project Goals
 
